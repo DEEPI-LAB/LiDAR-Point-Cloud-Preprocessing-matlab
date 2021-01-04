@@ -2,7 +2,7 @@
 % Point Cloud Data preprocessing #1 Visualization
 % Jongwon Kim
 % Deep.I Inc
-% deepi.contac.us@gmail.com
+% deepi.contact.us@gmail.com
 % https://deep-eye.tistory.com
 % *********************************************
 

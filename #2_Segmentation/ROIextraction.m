@@ -1,5 +1,5 @@
 function xyzi = ROIextraction(xyzi,x,y,z,flag)
-
+% 
 if (flag == 'height')
     
     xyzi = xyzi(xyzi(:,1) > x(1) & xyzi(:,1) < x(2) & xyzi(:,2) > y(1) & xyzi(:,2) < y(2),:);
